@@ -1,0 +1,2 @@
+# AttendanceManagementSystem
+A kiddie project
